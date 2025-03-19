@@ -22,4 +22,4 @@ Reference video: https://www.youtube.com/watch?v=cRL9REGSKkM
 
 XSS - 30 Days
 
-** Day -1 **: 
+**Day -1 : ** 
