@@ -22,6 +22,7 @@ Reference video: https://www.youtube.com/watch?v=cRL9REGSKkM
 
 XSS - 30 Days
 
-Day - 1 : [Port Swigger Acadamey]([url](https://portswigger.net/web-security/cross-site-scripting#impact-of-xss-vulnerabilities)) 
+Day - 1 : Port Swigger Academy
+https://portswigger.net/web-security/cross-site-scripting#impact-of-xss-vulnerabilities
 
 
