@@ -18,3 +18,8 @@ Select Option 4 - XSS ==> filename ===>payloads/xss.txt ====> enter
 
 Reference video: https://www.youtube.com/watch?v=cRL9REGSKkM
 ===========
+
+
+XSS - 30 Days
+
+** Day -1 **: 
